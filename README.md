@@ -1,3 +1,1 @@
-# Acciojob Assignment Solution Template Repo
-
-# Instructions 
+# Write HTML code to achieve the layout with heading Welcome to Accio Jobs!
